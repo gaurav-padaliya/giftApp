@@ -17,14 +17,9 @@ export const config = {
   // Add URLs to your music files (mp3, wav, etc.)
   music: [
     {
-      name: "Romantic Song 1",
-      url: "/music/song1.mp3", // Replace with your music URL
+      name: "Tumhi Dekho Na",
+      url: "/music/Tumhi Dekho Na.mp3",
     },
-    // Add more songs here
-    // {
-    //   name: "Song 2",
-    //   url: "/music/song2.mp3",
-    // },
   ],
 
   // Landing section messages
